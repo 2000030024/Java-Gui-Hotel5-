@@ -1,0 +1,7 @@
+Name: Abbas Age : 22 Gender : Male Room no : 325 Number of person : 9
+Name: Pavan Age : 18 Gender : Male Room no : 605 Number of person : 6
+Name: Aishik Age : 20 Gender : 20 Room no : 905 Number of person : 5
+Name: Jothysna Age : 25 Gender : Female Room no : 542 Number of person : 4
+Name: Akhil Age : 27 Gender : male Room no : 456 Number of person : 6
+Name: Rabi Age : 65 Gender : Male Room no : 202 Number of person : 6
+Name: Avinava Age : 21 Gender : Male Room no : 2548 Number of person : 3
